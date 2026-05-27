@@ -16,10 +16,8 @@ Mai jos regasiti o privire de ansamblu asupra evolutiei si realizarii proiectulu
 ![Montaj Final](Poza-montaj-final.jpeg)
 
 **Video Demo:**
-Pentru a vedea cum ruleaza jocul in varianta finala, accesati fisierul video atasat.
-[Deschide Video Demo](video_final.mp4)
-
-*(Pe GitHub, puteti da click pe linkul de mai sus pentru a deschide player-ul video integrat).*
+Pentru a vedea cum ruleaza jocul in varianta finala, accesati linkul atasat.
+### https://www.youtube.com/watch?v=fbTNCl3BuzY
 
 ---
 
